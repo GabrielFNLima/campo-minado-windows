@@ -1,0 +1,35 @@
+C:\Users\rogerio_martins\Documents\Visual Studio 2008\Projects\Minefield\Minefield\bin\Debug\Minefield.exe
+C:\Users\rogerio_martins\Documents\Visual Studio 2008\Projects\Minefield\Minefield\bin\Debug\Minefield.pdb
+C:\Users\rogerio_martins\Documents\Visual Studio 2008\Projects\Minefield\Minefield\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rogerio_martins\Documents\Visual Studio 2008\Projects\Minefield\Minefield\obj\Debug\Minefield.Form1.resources
+C:\Users\rogerio_martins\Documents\Visual Studio 2008\Projects\Minefield\Minefield\obj\Debug\Minefield.Properties.Resources.resources
+C:\Users\rogerio_martins\Documents\Visual Studio 2008\Projects\Minefield\Minefield\obj\Debug\Minefield.csproj.GenerateResource.Cache
+C:\Users\rogerio_martins\Documents\Visual Studio 2008\Projects\Minefield\Minefield\obj\Debug\Minefield.exe
+C:\Users\rogerio_martins\Documents\Visual Studio 2008\Projects\Minefield\Minefield\obj\Debug\Minefield.pdb
+R:\D2T\Minefield\Minefield\obj\Debug\Minefield.exe
+R:\D2T\Minefield\Minefield\obj\Debug\Minefield.pdb
+R:\D2M\Minefield\Minefield\obj\Debug\Minefield.exe
+R:\D2M\Minefield\Minefield\obj\Debug\Minefield.pdb
+R:\D2M\Minefield\Minefield\bin\Debug\Minefield.exe
+R:\D2M\Minefield\Minefield\bin\Debug\Minefield.pdb
+R:\D2M\Minefield\Minefield\obj\Debug\ResolveAssemblyReference.cache
+R:\D2M\Minefield\Minefield\obj\Debug\Minefield.Form1.resources
+R:\D2M\Minefield\Minefield\obj\Debug\Minefield.Properties.Resources.resources
+R:\D2M\Minefield\Minefield\obj\Debug\Minefield.csproj.GenerateResource.Cache
+C:\Users\curso\Documents\Visual Studio 2008\Projects\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.exe
+C:\Users\curso\Documents\Visual Studio 2008\Projects\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.pdb
+C:\Users\curso\Documents\Visual Studio 2008\Projects\Campo Minado\Minefield\Minefield\bin\Debug\Minefield.exe
+C:\Users\curso\Documents\Visual Studio 2008\Projects\Campo Minado\Minefield\Minefield\bin\Debug\Minefield.pdb
+C:\Users\curso\Documents\Visual Studio 2008\Projects\Campo Minado\Minefield\Minefield\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\curso\Documents\Visual Studio 2008\Projects\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.Form1.resources
+C:\Users\curso\Documents\Visual Studio 2008\Projects\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.Properties.Resources.resources
+C:\Users\curso\Documents\Visual Studio 2008\Projects\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.csproj.GenerateResource.Cache
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\bin\Debug\Minefield.exe
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\bin\Debug\Minefield.pdb
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.csprojResolveAssemblyReference.cache
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.Form1.resources
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.Properties.Resources.resources
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.exe
+C:\Users\gabri\source\repos\Campo Minado\Minefield\Minefield\obj\Debug\Minefield.pdb
